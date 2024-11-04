@@ -1,0 +1,37 @@
+{
+    "company": "Tech Solutions",
+    "location": "Karachi",
+    "departments": [
+       {
+          "name": "Development",
+          "employees": [
+             {
+                "name": "Muhammad Shaheryar",
+                "position": "Frontend Developer",
+                "skills": ["React", "JavaScript", "CSS"]
+             },
+             {
+                "name": "Aisha Khan",
+                "position": "Backend Developer",
+                "skills": ["Node.js", "Express", "MongoDB"]
+             }
+          ]
+       },
+       {
+          "name": "Marketing",
+          "employees": [
+             {
+                "name": "Ali Ahmed",
+                "position": "SEO Specialist",
+                "skills": ["SEO", "Content Marketing", "Google Analytics"]
+             },
+             {
+                "name": "Sara Malik",
+                "position": "Social Media Manager",
+                "skills": ["Social Media Strategy", "Copywriting", "Brand Management"]
+             }
+          ]
+       }
+    ]
+ }
+ 
